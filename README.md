@@ -7,3 +7,5 @@ Caveats:
 
 Other ideas:
 - Make graph doubly connected so it's possible to traverse backwards.
+
+first_attempt.py contains code from my initial approach at this problem, before I pivoted to a more production-quality approach.
